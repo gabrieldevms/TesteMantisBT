@@ -26,7 +26,7 @@ public class BaseTest {
         driver.findElement(By.cssSelector("input[type='submit']")).click();
 
         WebElement passwordField = driver.findElement(By.id("password"));
-        passwordField.sendKeys("G9012643g121291");
+        passwordField.sendKeys("teste123");
         driver.findElement(By.cssSelector("input[type='submit']")).click();
     }
 
