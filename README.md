@@ -32,8 +32,8 @@ O projeto inclui a automação dos seguintes casos de teste:
 - **Pré-condições**: O usuário deve ter um nome de usuário e senha válidos.
 - **Passos**:
   1. Acessar a URL do sistema: [http://mantis-prova.base2.com.br].
-  2. Preencher o campo de usuário com "Gabriel_Moreira".
-  3. Preencher o campo de senha com "G9012643g121291".
+  2. Preencher o campo de usuário com um usuário válido.
+  3. Preencher o campo de senha com uma senha válida.
   4. Clicar no botão de login.
 - **Dados de Entrada**: Nome de usuário e senha válidos.
 - **Resultado Esperado**: O sistema deve redirecionar para a página inicial e exibir o botão de relatório de bug.
